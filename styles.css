@@ -1,0 +1,42 @@
+
+ h1 {
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+ li {
+    color:darkblue;
+    font-size: 18px;
+    font-family: sans-serif;
+    margin: 15px 20px;
+ }
+
+ button {
+    text-decoration: none;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 10px;
+    color:#f5fafa;
+    font-size: 16px;
+    
+ }
+
+ button:hover{
+    transform: scale(1.2);
+ }
+
+ #agregar{
+    background-color: cadetblue;
+    border-color: #519fa1;
+ }
+
+ #borrar_elemento{
+    background-color: #910101;
+    border-color:#910101;
+ }
+
+ #borrar_lista{
+    background-color: #080808;
+    border-color: #080808;
+ }
+
